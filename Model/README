@@ -1,0 +1,5 @@
+Under unix systems:
+to compile the mod files use the command 
+nrnivmodl 
+and run the simulation hoc file with the command 
+nrngui membrane_potential.hoc
